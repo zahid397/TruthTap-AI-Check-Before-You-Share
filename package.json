@@ -1,0 +1,27 @@
+{
+  "name": "truthtap-ai",
+  "version": "1.1.0",
+  "private": true,
+  "description": "TruthTap AI - A youth-friendly verification tool for the UNESCO Global Youth Hackathon 2026. Check before you share. 100% static export, zero backend.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "16.2.10",
+    "react": "19.2.7",
+    "react-dom": "19.2.7"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.12",
+    "@types/react": "19.0.7",
+    "@types/react-dom": "19.0.3",
+    "autoprefixer": "10.4.19",
+    "postcss": "8.4.39",
+    "tailwindcss": "3.4.7",
+    "typescript": "5.4.5"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  }
+}
